@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Four In A Row App</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="play_move">Play Move</string>
+    <string name="username_input_hint">Click here and enter your name</string>
+    <string name="move_input_hint">Click here and enter column number (0-5).</string>
+    <string name="instructions_label">Instructions:</string>
+    <string name="instructions_line1">Enter column number (0 - 5) to play move.</string>
+    <string name="instructions_line2">You will be RED and the computer will be BLUE.</string>
+    <string name="instructions_line3">Try to get four in a row!</string>
+    <string name="instructions_line4">Enter your name below and press start to begin playing.</string>
+</resources>
